@@ -1,5 +1,5 @@
 # Loan Status Prediction App
-![](loan_prediction_image.png)
+![](loans.jpg)
 
 An interactive Streamlit app that predicts loan outcomes—**Rejected**, **Approved**, or **Closed**—based on user-input features like credit score, loan amount, loan type, date of account opening, last transaction date.
 
@@ -48,7 +48,7 @@ Serialize the model with pickle and integrate into a Streamlit app (sidebar for 
    Sidebar inputs → click **Predict** → view predicted status + probabilities in real time.
 
 ---
-
+![](loan_status_prediction.jpg)
 ## Challenges & Solutions
 
 - **Poor Data Quality**: Missing and inconsistent entries required careful imputation and cleaning.
