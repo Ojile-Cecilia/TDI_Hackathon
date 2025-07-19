@@ -47,7 +47,7 @@ Link [here](https://my-loan-status.streamlit.app/) to interact with the App
 
 
 ## A view of the platform
-![](loan_status_prediction.png)
+![](loan_predict.png)
 
 
 ## Challenges
