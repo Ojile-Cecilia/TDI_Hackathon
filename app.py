@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import sklearn
+from sklearn.ensemble import RandomForestClassifier  # or whichever classes are used
 import pickle
 from datetime import date
 
