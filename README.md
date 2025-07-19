@@ -1,4 +1,6 @@
-# Loan Status Prediction App
+# Loan Status Prediction App 
+Click [here](https://my-loan-status.streamlit.app/) to interact with the app
+
 ![](loans.jpg)
 
 # Overview
